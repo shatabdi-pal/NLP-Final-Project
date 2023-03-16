@@ -1,0 +1,1 @@
+the year 2018 has been an inflection point for machine learning models handling text . one of the latest milestones in this development is the release of BERT . it is a model that broke several records for how well models can handle language-based tasks 

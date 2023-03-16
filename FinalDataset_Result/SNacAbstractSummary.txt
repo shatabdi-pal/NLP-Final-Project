@@ -1,0 +1,1 @@
+We develop a taxonomy of coherence errors in generated narrative summaries. We collect span-level annotations for 6.6k sentences across 150 book and movie summary. The collectedannotations allow us to benchmark past work in coherence modeling and train a strong classifier.

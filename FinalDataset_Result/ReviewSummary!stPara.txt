@@ -1,0 +1,1 @@
+Machine-learning technology powers many aspects of modern society. It is used to identify objects in images, transcribe speech into text, match news items, posts or products with users’ interests, and select relevant results of search. Increasingly, these applications make use of a class of techniques called deep learning.
